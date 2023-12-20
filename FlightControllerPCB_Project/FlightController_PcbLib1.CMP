@@ -1,0 +1,14 @@
+Component   : stm32f103c8t6tr
+PCB Library : FlightController_PcbLib1.PcbLib
+Date        : 17.12.2023
+Time        : 17:46:40
+
+
+
+Dimension : 10.465 x 10.465 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       2        0
+--------------------------------------------------------------------
+ Total                       0          4        0       2        0
